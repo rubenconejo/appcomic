@@ -12,6 +12,8 @@ import { HeroesService } from '../../servicios/heroes.service';
 })
 export class ResultadoComponent implements OnInit {
 
+  
+
   heroes: any[] = [];
   termino: string;
 
